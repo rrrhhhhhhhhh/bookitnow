@@ -165,13 +165,6 @@ main {
   justify-content: center;
 }
 
-img {
-    display: flex;
-    width: 100%;
-    padding: 1em;
-    max-width: 100%;
-}
-
 .images.mobile {
   display: none;
 }
@@ -256,7 +249,7 @@ h1 a:visited {
   margin-top: 100px;
   margin-left: 10px;
   margin-right: 10px;
-  vertical-align: middle;
+  vertical-align: middle;
 }
 
 /* TEST THUMBNAIL STARTS
@@ -331,7 +324,7 @@ div.gallery img {
     right: 1rem;
   }
 
-  .images.mobile  img {
+  .images.mobile  {
     display: flex;
     width: 100%;
     padding: 1em;
@@ -401,6 +394,7 @@ canvas:focus {
 	width: 100%;
 	padding: 5px 0 0 0;
 }
+
 
 /* mobile styles */
 @media screen and (max-width: 568px)
