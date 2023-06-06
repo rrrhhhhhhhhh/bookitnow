@@ -29,9 +29,6 @@ font-display:auto;font-style:italic;font-weight:400;
 html {
   font-size: 10px;
   background: url(../../resources/images/h.jpg); 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
 }
 body {
