@@ -33,16 +33,13 @@ body {
   font-size: 2.4rem;
   line-height: 1.1;
   font-family: "adobe-caslon-pro", sans-serif;
-  background: url("./resources/images/hello.jpg);
--webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+  background: url("../../resources/images/hello.jpg);
   background-size: cover;
-            background-position: center center;
-            background-attachment: fixed;
-            background-repeat: no-repeat;
-
+  background-position: center center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
 }
+
 header {
   display: flex;
   flex-direction: row;
