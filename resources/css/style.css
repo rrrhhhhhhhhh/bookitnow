@@ -25,10 +25,12 @@ font-display:auto;font-style:italic;font-weight:400;
   text-decoration: none;
   font-size: normal;
   font-weight: normal;
+  background: url(../../resources/images/hello.jpg); 
+  background-size: cover;
 }
 html {
   font-size: 10px;
-  background: url(images/hello.jpg); 
+  background: url(../../resources/images/hello.jpg); 
   background-size: cover;
 }
 body {
