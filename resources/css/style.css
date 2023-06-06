@@ -28,16 +28,16 @@ font-display:auto;font-style:italic;font-weight:400;
 }
 html {
   font-size: 10px;
-}
-body {
-  font-size: 2.4rem;
-  line-height: 1.1;
-  font-family: "adobe-caslon-pro", sans-serif;
   background: url(../../resources/images/h.jpeg); 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+body {
+  font-size: 2.4rem;
+  line-height: 1.1;
+  font-family: "adobe-caslon-pro", sans-serif;
 }
 header {
   display: flex;
