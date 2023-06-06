@@ -25,19 +25,18 @@ font-display:auto;font-style:italic;font-weight:400;
   text-decoration: none;
   font-size: normal;
   font-weight: normal;
-  background: url(../../resources/images/hello.jpg); 
-  background-size: cover;
 }
 html {
   font-size: 10px;
-  background: url(../../resources/images/hello.jpg); 
-  background-size: cover;
 }
 body {
   font-size: 2.4rem;
   line-height: 1.1;
   font-family: "adobe-caslon-pro", sans-serif;
-  background: url(../workspaces/bookitnow/resources/images/hello.jpg); 
+  background: url(https://media.gettyimages.com/id/500782809/photo/silhouette-of-dragons-blood-tree-at-sunset.webp?s=612x612&w=gi&k=20&c=0lGQUhnxdrdUZ1SKQoasGeInPmsnP3YDPtUn8sSmdlc=);
+-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
 }
 header {
