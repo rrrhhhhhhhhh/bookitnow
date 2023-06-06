@@ -37,6 +37,8 @@ body {
   font-size: 2.4rem;
   line-height: 1.1;
   font-family: "adobe-caslon-pro", sans-serif;
+  background: url(../../resources/images/hello.jpg); 
+  background-size: cover;
 }
 header {
   display: flex;
