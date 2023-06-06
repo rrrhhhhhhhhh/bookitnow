@@ -28,9 +28,8 @@ font-display:auto;font-style:italic;font-weight:400;
 }
 html {
   font-size: 10px;
-  background: url(../../resources/images/hello.jpg); 
+  background: url(././resources/images/hello.jpg); 
   background-size: cover;
-  z-index: 2;
 }
 body {
   font-size: 2.4rem;
